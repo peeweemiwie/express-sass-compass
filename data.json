@@ -1,0 +1,9 @@
+{
+  "fname": "Miwa",
+  "lname":  "Yagi",
+  "pet": {
+    "species": "cat",
+    "colors": "black and white",
+    "name": "Love"
+  }
+}
