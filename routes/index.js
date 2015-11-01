@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Codepan test' });
+  res.render('index', { title: 'Codepen test' });
 });
 
 router.get('/animation', function(req, res, next) {
